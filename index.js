@@ -94,4 +94,4 @@
     global.format = format;
   }
 
-}.call(this, this));
+}.call(this, this || window));
